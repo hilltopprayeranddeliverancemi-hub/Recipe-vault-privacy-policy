@@ -1,1 +1,1 @@
-# Recipe-vault-privacy-policy
+# privacy-policy
